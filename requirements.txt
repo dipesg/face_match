@@ -1,12 +1,11 @@
 mtcnn==0.1.0
 tensorflow-cpu
-keras==2.4.3
+keras
 keras-vggface==0.6
-keras_applications==1.0.8
+keras_applications
 PyYAML
 tqdm
 scikit-learn
-opencv-python-headless
 opencv-python
 streamlit
 bing-image-downloader
