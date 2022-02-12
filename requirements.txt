@@ -6,6 +6,7 @@ keras_applications
 PyYAML
 tqdm
 scikit-learn
+opencv-headless
 opencv-python
 streamlit
 bing-image-downloader
