@@ -23,21 +23,13 @@ https://www.kaggle.com/sushilyadav1998/bollywood-celeb-localized-face-dataset
 
 Web app look
 
-<img src="demo/1.png" alt="workflow" width="70%">
+<img src="images/app1.jpg" alt="workflow" width="70%">
 
 Lets check some of images
 
-<img src="demo/2.png" alt="workflow" width="70%">
-
-<img src="demo/3.png" alt="workflow" width="70%">
+<img src="images/app2.jpg" alt="workflow" width="70%">
 
 This really performing good you can consider by seeing this result 😀
-
-<img src="demo/4.png" alt="workflow" width="70%">
-
-The fun part is I am looked like Riteish Deshmukh 😄😁
-
-<img src="demo/5.png" alt="workflow" width="70%">
 
 # STEPS to run this project:
 
