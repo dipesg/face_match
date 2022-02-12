@@ -9,11 +9,9 @@ Deep learning methods are able to leverage very large datasets of faces and lear
 
 In this project, you will discover the problem of face recognition and how deep learning methods can achieve superhuman performance to identify similar faces.
 
-## Original repo:
-https://github.com/entbappy/Which-Bollywood-Celebrity-You-look-like
 
 ## Demo Video:
-https://www.youtube.com/watch?v=lYSsLFgFzBk&list=PLkz_y24mlSJYI78C1IZJaghNvC7dh6red&index=6
+![ezgif-1-1ca55b365e](https://user-images.githubusercontent.com/75604769/153721961-8143fab4-897c-471b-b0c1-d2b6fd55fd92.gif)
 
 This is a methods of identifying similar faces check various aspects on pictures, including: face shape, nose, eyes and mouth; face position in the picture; skin color (including the lighting of the photo); color and hair and cosine_similarity.
 
@@ -93,9 +91,9 @@ yes!! Now you can start predicting 🙂
 
 # Authors:
 ```bash
-Author: Bappy Ahmed
-Data Scientist
-Email: entbappy73@gmail.com
+Author: Dipesh Silwal
+ML Engineer
+Email: dipeshsilwal31@gmail.com
 ```
 
 
