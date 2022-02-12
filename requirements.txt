@@ -6,6 +6,8 @@ keras_applications==1.0.8
 PyYAML
 tqdm
 scikit-learn
+opencv-python-headless
+opencv-python
 streamlit
 bing-image-downloader
 
