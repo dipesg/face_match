@@ -1,4 +1,5 @@
 import tensorflow
+from tensorflow import keras
 tensorflow.compat.v1.get_default_graph
 from tensorflow.keras import backend
 from keras_vggface.utils import preprocess_input
