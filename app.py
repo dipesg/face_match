@@ -10,7 +10,7 @@ import streamlit as st
 from PIL import Image
 import os
 import cv2
-from mtcnn import MTCNN
+from mtcnn.mtcnn import MTCNN
 import numpy as np
 
 
