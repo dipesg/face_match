@@ -11,7 +11,8 @@ In this project, you will discover the problem of face recognition and how deep 
 
 
 ## Demo Video:
-![ezgif-1-1ca55b365e](https://user-images.githubusercontent.com/75604769/153721961-8143fab4-897c-471b-b0c1-d2b6fd55fd92.gif)
+![github_gif](https://user-images.githubusercontent.com/75604769/153743778-155e61f4-958b-4566-bdf3-fcd5c5d74721.gif)
+
 
 This is a methods of identifying similar faces check various aspects on pictures, including: face shape, nose, eyes and mouth; face position in the picture; skin color (including the lighting of the photo); color and hair and cosine_similarity.
 
