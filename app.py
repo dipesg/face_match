@@ -1,5 +1,5 @@
 import tensorflow
-tf.compat.v1.get_default_graph
+tensorflow.compat.v1.get_default_graph
 from tensorflow.keras import backend
 from keras_vggface.utils import preprocess_input
 from keras_vggface.vggface import VGGFace
