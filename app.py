@@ -1,4 +1,5 @@
 import tensorflow as tf
+tf.compat.v1.get_default_graph
 from keras_vggface.utils import preprocess_input
 from keras_vggface.vggface import VGGFace
 from src.utils.all_utils import read_yaml, create_directory
