@@ -16,8 +16,8 @@ setup(
     python_requires=">=3.7",
     install_requires=[
         'mtcnn',
-        'tensorflow-cpu==2.7.0',
-        'keras',
+        'tensorflow-cpu==2.2.0',
+        'keras==2.3.1',
         'keras-vggface==0.6',
         'keras_applications==1.0.8',
         'opencv-contrib-python',
