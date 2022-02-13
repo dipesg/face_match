@@ -20,7 +20,7 @@ setup(
         'keras==2.2.4',
         'keras-vggface==0.6',
         'keras_applications==1.0.8',
-        'opencv-contrib-python',
+        'opencv-python-headless==4.2.0.32',
         'PyYAML',
         'tqdm',
         'scikit-learn',
