@@ -1,5 +1,5 @@
-mtcnn
-tensorflow-cpu==2.0.0
+mtcnn==0.1.0
+tensorflow-cpu==2.1.0
 keras
 keras-vggface==0.6
 keras_applications==1.0.8
