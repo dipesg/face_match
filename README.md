@@ -1,6 +1,6 @@
 # Project Name: Face Match
 
-This project use a deeplearning model like **VGGFace** and **Streamlit** to build a web application.
+This project use a deeplearning model like **VGGFace** and to build a web application **Streamlit** is used.
 
 Face recognition is the problem of identifying and verifying people in a photograph by their face.
 It is a task that is trivially performed by humans, even under varying light and when faces are changed by age or obstructed with accessories and facial hair. Nevertheless, it is remained a challenging computer vision problem for decades until recently.
