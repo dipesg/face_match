@@ -35,7 +35,6 @@ Lets check some of images
 
 <img src="images/app2.jpg" alt="workflow" width="70%">
 
-This really performing good you can consider by seeing this result 😀
 
 # STEPS to run this project:
 
@@ -84,6 +83,3 @@ Now to start the webapp run the following command
 ```bash
 streamlit run app.py
 ```
-
-
-
