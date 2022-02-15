@@ -1,6 +1,6 @@
-# Project Name: Which Bollywood Celebrity You look like
+# Project Name: Face Match
 
-A Deep learning based streamlit web app which can tell with which bollywood celebrity your face resembles.
+This project use a deeplearning model like **VGGFace** and **Streamlit** to build a web application.
 
 Face recognition is the problem of identifying and verifying people in a photograph by their face.
 It is a task that is trivially performed by humans, even under varying light and when faces are changed by age or obstructed with accessories and facial hair. Nevertheless, it is remained a challenging computer vision problem for decades until recently.
@@ -20,7 +20,10 @@ This is a methods of identifying similar faces check various aspects on pictures
 Dataset for this project is used from ![Kaggle](https://www.kaggle.com/sushilyadav1998/bollywood-celeb-localized-face-dataset)
 
 # Model Used to Predict 
+Here I used VGGFace model to extract the facial features.
 
+# Webapp Building 
+Here Streamlit is used to develop the web application and deployed in a local server.
 
 # Some Real Time Demo:
 
@@ -82,13 +85,5 @@ Now to start the webapp run the following command
 streamlit run app.py
 ```
 
-yes!! Now you can start predicting 🙂
-
-# Authors:
-```bash
-Author: Dipesh Silwal
-ML Engineer
-Email: dipeshsilwal31@gmail.com
-```
 
 
