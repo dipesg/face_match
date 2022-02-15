@@ -64,9 +64,7 @@ pip install -r requirements.txt
 ```
 
 ## STEP 04: 
-Download the data from the link and keep it in your project directory. Make sure all the actress folder should be in just one folder called data, like that
-
-<img src="demo/data.png" alt="workflow" width="70%">
+Download the data from the link and keep it in your project directory. Make sure all the actors and actress folder should be in just one folder called data.
 
 ## STEP 05: 
 Just execute this command one time if you are not changing the data
