@@ -38,8 +38,6 @@ Lets check some of images
 
 # STEPS to run this project:
 
-You can also use others images instead of bollywood actress
-
 ## STEP 01: 
 Clone the repository
 
