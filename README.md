@@ -17,7 +17,9 @@ In this project, you will discover the problem of face recognition and how deep 
 This is a methods of identifying similar faces check various aspects on pictures, including: face shape, nose, eyes and mouth; face position in the picture; skin color (including the lighting of the photo); color and hair and cosine_similarity.
 
 # Dataset has been used:
-https://www.kaggle.com/sushilyadav1998/bollywood-celeb-localized-face-dataset
+Dataset for this project is used from ![Kaggle](https://www.kaggle.com/sushilyadav1998/bollywood-celeb-localized-face-dataset)
+
+# Model Used to Predict 
 
 
 # Some Real Time Demo:
@@ -40,7 +42,7 @@ You can also use others images instead of bollywood actress
 Clone the repository
 
 ```bash
-git clone https://github.com/entbappy/Which-Bollywood-Celebrity-You-look-like.git
+git clone https://github.com/dipesg/face_match.git
 ```
 
 ## STEP 02: 
